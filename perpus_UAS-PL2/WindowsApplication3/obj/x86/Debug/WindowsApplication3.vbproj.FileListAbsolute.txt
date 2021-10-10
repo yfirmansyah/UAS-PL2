@@ -1,0 +1,64 @@
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.ResolveComReference.cache
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Templates.resources
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Login.resources
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Pencarian_buku.resources
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Rak_buku.resources
+C:\Users\User\Documents\BV.Net\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Data_buku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbprojAssemblyReference.cache
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\Interop.ADODB.dll
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.ResolveComReference.cache
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Login.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Templates.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DataBuku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.PencarianBuku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.RakBuku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DaftarAnggota.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Dashboard.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DaftarBukuTamu.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.PeminjamBuku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DataDaftarAnggota.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DataPeminjamBuku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.LaporanDataBuku.resources
+C:\Users\SALIMSEA\Downloads\WindowsApplication3\WindowsApplication3\WindowsApplication3\obj\x86\Debug\WindowsApplication3.LaporanDataPeminjam.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\bin\Debug\WindowsApplication3.exe
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\bin\Debug\WindowsApplication3.pdb
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\bin\Debug\WindowsApplication3.xml
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.AssemblyReference.cache
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\Interop.ADODB.dll
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.ResolveComReference.cache
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DaftarAnggota.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DaftarBukuTamu.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Dashboard.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DataBuku.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DataDaftarAnggota.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.DataPeminjamBuku.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.LaporanDataBuku.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.LaporanDataPeminjam.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Login.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Resources.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.PeminjamBuku.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.PencarianBuku.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.RakBuku.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.Templates.resources
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.GenerateResource.cache
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.vbproj.CoreCompileInputs.cache
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.exe
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.xml
+D:\KULIAH\PROGRAMING LANGUAGE 2\kuliah.semes2.pl_VB.Net_UTS-master\WindowsApplication3\obj\x86\Debug\WindowsApplication3.pdb
